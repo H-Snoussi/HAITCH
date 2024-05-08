@@ -11,5 +11,7 @@ High Angular resolution Diffusion Imaging reconsTruction and Correction approacH
 Recommended to use Anaconda Python distribution.
 - numpy >= 1.13
 - scipy
-- [dipy](http://nipy.org/dipy/)
-- [cvxpy](http://www.cvxpy.org/)
+- [DIPY](https://dipy.org/)
+- [CVXPY](http://www.cvxpy.org/)
+- [MRtrix3](https://www.mrtrix.org/)
+- [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation)
