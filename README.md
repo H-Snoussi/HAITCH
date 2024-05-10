@@ -1,6 +1,4 @@
 
-
-![HAITCH_LOGO3](https://github.com/H-Snoussi/HAITCH/assets/20087558/cd0ff070-8e78-49b6-b3f5-3dae949c793c)
 ![try](https://github.com/H-Snoussi/HAITCH/assets/20087558/4c6f39b9-72f0-4b45-818f-d39bddbd736f)
 
 # HAITCH : High Angular resolution diffusion Imaging reconsTruction and Correction approacH
