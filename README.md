@@ -1,7 +1,7 @@
 
 ![try](https://github.com/H-Snoussi/HAITCH/assets/20087558/4c6f39b9-72f0-4b45-818f-d39bddbd736f)
 
-# HAITCH : High Angular resolution diffusion Imaging reconsTruction and Correction approacH
+## HAITCH : High Angular resolution diffusion Imaging reconsTruction and Correction approacH
 
 HAITCH is a novel framework designed to address the challenges of fetal diffusion MRI (dMRI) by overcoming limitations caused by fetal motion and geometric distortion. It achieves this through optimized acquisition and reconstruction strategies, enabling more accurate analysis of the developing fetal brain.
 
