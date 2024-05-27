@@ -8,7 +8,7 @@ HAITCH is a novel framework designed to address the challenges posed by fetal mo
 
 ## Dependencies
 Recommended to use Anaconda Python distribution.
-- numpy >= 1.13
+- numpy
 - scipy
 - [DIPY](https://dipy.org/)
 - [CVXPY](http://www.cvxpy.org/)
