@@ -6,12 +6,12 @@
 HAITCH is a novel framework designed to address the challenges of fetal diffusion MRI (dMRI) by overcoming limitations caused by fetal motion and geometric distortion. It achieves this through optimized acquisition and reconstruction strategies, enabling more accurate analysis of the developing fetal brain.
 
 ## Features
-- **Optimized Scheme:** Enhances motion tolerance of the data by optimizing gradient table.
+- **Optimized Scheme:** Optimizing the gradient table to enhance the dMRI data's tolerance to fetal motion.
 - **Motion Correction:** Mitigates the effects of fetal motion on dMRI images.
-- **Geometric Distortion Correction:** Corrects distortions caused by magnetic field inhomogeneities.
-- **Reconstruction Techniques:** Implements advanced algorithms for high-quality image reconstruction.
+- **Dynamic Distortion Correction:** Corrects distortions caused by magnetic field inhomogeneities.
+- **Post-Processing:** Spatial Normalization, Diffusion Model Estimation and Tractography.
 
-## Clone the Repository
+## Installation
 ```bash
 git clone https://github.com/H-Snoussi/HAITCH.git
 cd HAITCH
